@@ -32,13 +32,6 @@ Circular peer-ranking for LLMs, born from fine-tuning translation models with no
 - `Any` is a confession, not a type.
 - **Reproducibility isn't optional** — if the same input gives a different id, you've got nothing.
 
-## 📊 the obligatory widgets
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoAgosta&show_icons=true&hide_border=true&theme=tokyonight" alt="Enzo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAgosta&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
 ## 📫 find me
 
 - 🐙 GitHub: [@EnzoAgosta](https://github.com/EnzoAgosta)
